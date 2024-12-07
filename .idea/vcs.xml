@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo/team-crew.github.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo/umbrellaplug.github.io" vcs="Git" />
   </component>
 </project>
