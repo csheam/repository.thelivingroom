@@ -7,3 +7,6 @@
 [submodule "repo/tikipeter.github.io"]
 	path = repo/tikipeter.github.io
 	url = https://github.com/Tikipeter/tikipeter.github.io.git
+[submodule "repo/repository.cocoscrapers"]
+	path = repo/repository.cocoscrapers
+	url = https://github.com/CocoJoe2411/repository.cocoscrapers.git
