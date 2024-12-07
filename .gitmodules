@@ -4,6 +4,3 @@
 [submodule "repo/team-crew.github.io"]
 	path = repo/team-crew.github.io
 	url = https://github.com/team-crew/team-crew.github.io.git
-[submodule "tikipeter.github.io"]
-	path = tikipeter.github.io
-	url = https://github.com/Tikipeter/tikipeter.github.io.git
