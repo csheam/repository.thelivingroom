@@ -1,3 +1,6 @@
 [submodule "repo/umbrellaplug.github.io"]
 	path = repo/umbrellaplug.github.io
 	url = https://github.com/umbrellaplug/umbrellaplug.github.io.git
+[submodule "repo/team-crew.github.io"]
+	path = repo/team-crew.github.io
+	url = https://github.com/team-crew/team-crew.github.io.git
