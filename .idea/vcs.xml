@@ -3,7 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo/repository.cocoscrapers" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repo/team-crew.github.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo/tikipeter.github.io" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repo/umbrellaplug.github.io" vcs="Git" />
   </component>
 </project>
